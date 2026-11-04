@@ -225,6 +225,7 @@ monerod --tx-proxy=tor,127.0.0.1:9050 --add-priority-node=zwt6vcp6d5tao4lv.onion
 - <https://acceptmonero.com/> — Curated list
 - <https://monero-forum.com/> — Marketplace section
 - <https://www.coinmap.org/> — Filter by Monero
+- <https://xmrlist.com/> — Hand-reviewed directory of businesses that accept Monero, with user reviews and scam warnings [Added 2026-11-04]
 
 ---
 
